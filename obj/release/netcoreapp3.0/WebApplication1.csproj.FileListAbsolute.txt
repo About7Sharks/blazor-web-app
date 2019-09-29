@@ -45,3 +45,8 @@
 /Users/sock/code/WebApplication1/obj/release/netcoreapp3.0/WebApplication1.dll
 /Users/sock/code/WebApplication1/obj/release/netcoreapp3.0/WebApplication1.pdb
 /Users/sock/code/WebApplication1/obj/release/netcoreapp3.0/WebApplication1.csproj.CopyComplete
+/Users/sock/code/WebApplication1/bin/release/netcoreapp3.0/dist/web.config
+/Users/sock/code/WebApplication1/bin/release/netcoreapp3.0/dist/appsettings.Development.json
+/Users/sock/code/WebApplication1/bin/release/netcoreapp3.0/dist/appsettings.json
+/Users/sock/code/WebApplication1/bin/release/netcoreapp3.0/dist/WebApplication1.deps.json
+/Users/sock/code/WebApplication1/bin/release/netcoreapp3.0/dist/WebApplication1.runtimeconfig.json
